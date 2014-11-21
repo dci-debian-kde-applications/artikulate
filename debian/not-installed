@@ -1,0 +1,4 @@
+# unused dev symlinks
+./usr/lib/libartikulatecore.so
+./usr/lib/libartikulatesound.so
+./usr/lib/libartikulatelearnerprofile.so

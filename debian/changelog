@@ -1,0 +1,99 @@
+artikulate (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream beta release
+    - build-depend on extra-cmake-modules
+    - add new files to artikulate.install, docs and not-installed
+    - update artikulate.lintian-overrides for an added file
+  * Import Packaging into Debian Git
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 21 Nov 2014 20:23:46 +0100
+
+artikulate (4:4.14.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 02:29:46 -0700
+
+artikulate (4:4.14.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Aug 2014 12:25:22 +0200
+
+artikulate (4:4.13.97-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release RC
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Fri, 01 Aug 2014 16:01:55 +0200
+
+artikulate (4:4.13.95-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 30 Jul 2014 17:19:14 +0200
+
+artikulate (4:4.13.90-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+  * Add libqtgstreamer-dev as a build depend
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Thu, 17 Jul 2014 10:23:53 -0700
+
+artikulate (4:4.13.2-0ubuntu1) utopic; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Jun 2014 11:37:50 +0100
+
+artikulate (4:4.13.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream KDE Software Compilation release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Apr 2014 21:32:21 +0100
+
+artikulate (4:4.12.97-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Wed, 02 Apr 2014 11:03:53 +0200
+
+artikulate (4:4.12.95-0ubuntu1) trusty; urgency=medium
+
+  [ Rohan Garg ]
+  * New upstream beta release
+
+  [ Philip Muškovac ]
+  * Drop upstream_add-library-versions.diff, applied upstream
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 23 Mar 2014 11:51:01 +0100
+
+artikulate (4:4.12.90-0ubuntu1) trusty; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+  [ Philip Muškovac ]
+  * Use dhmk 
+  * Move the libraries from artikulate-dev to artikulate as the libs are not
+    just dev symlinks and drop artikulate-dev as it's now empty
+  * Add da9a92aca3a7af07feb8bde506129fb9314f9e60 as
+    upstream_add-library-versions.diff so the libraries are properly versioned
+  * Override package-name-doesnt-match-sonames for artikulate as the libs are
+    private
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 10:29:51 +0000
+
+artikulate (0.2.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release
+    - Update install files
+    - Update symbols
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 12 Mar 2014 11:37:03 +0100
+
+artikulate (0.1.0-0ubuntu1) trusty; urgency=low
+
+  * Initial release. (LP: #1208021) 
+
+ -- Howard Chan <smartboyhw@gmail.com>  Sat, 03 Aug 2013 23:47:00 +0800
