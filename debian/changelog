@@ -1,6 +1,6 @@
-artikulate (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+artikulate (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
 
-  * New upstream beta release
+  * New upstream release candidate
     - build-depend on extra-cmake-modules
     - add new files to artikulate.install, docs and not-installed
     - update artikulate.lintian-overrides for an added file
