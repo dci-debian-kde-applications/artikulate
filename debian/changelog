@@ -1,12 +1,13 @@
-artikulate (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+artikulate (4:14.11.97-0ubuntu1~ubuntu15.04~ppa1) vivid; urgency=medium
 
   * New upstream release candidate
     - build-depend on extra-cmake-modules
     - add new files to artikulate.install, docs and not-installed
     - update artikulate.lintian-overrides for an added file
   * Import Packaging into Debian Git
+  * PPA build
 
- -- Philip Muškovac <yofel@kubuntu.org>  Fri, 21 Nov 2014 20:23:46 +0100
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 19:53:37 +0100
 
 artikulate (4:4.14.2-0ubuntu1) vivid; urgency=medium
 
