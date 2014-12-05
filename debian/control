@@ -13,7 +13,7 @@ Build-Depends: cmake,
                qtmobility-dev
 Standards-Version: 3.9.4
 Homepage: https://edu.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/artikulate.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/artikulate.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/artikulate.git
 
 Package: artikulate
