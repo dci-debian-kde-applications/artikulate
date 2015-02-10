@@ -1,6 +1,10 @@
 artikulate (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release
+
+  [ José Manuel Santamaría Lema ]
+  * Bump build depend on libqtgstreamer-dev to 1.2.0
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 05 Feb 2015 20:47:17 +0000
 

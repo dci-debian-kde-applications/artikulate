@@ -7,7 +7,7 @@ Build-Depends: cmake,
                extra-cmake-modules,
                kde-sc-dev-latest,
                kdelibs5-dev,
-               libqtgstreamer-dev,
+               libqtgstreamer-dev (>= 1.2.0),
                libqtmultimediakit1,
                pkg-kde-tools,
                qtmobility-dev
