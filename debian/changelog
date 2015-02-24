@@ -6,6 +6,7 @@ artikulate (4:14.12.2-1~) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * Prepare initial Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 13:35:46 +0100
 
