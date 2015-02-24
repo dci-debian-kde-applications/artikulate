@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: artikulate
-Source: https://projects.kde.org/projects/playground/edu/artikulate
+Source: git://anongit.kde.org/artikulate
 
 Files: *
 Copyright: 2013 Andreas Cord-Landwehr <cordlandwehr@gmail.com>
