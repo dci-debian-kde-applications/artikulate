@@ -1,4 +1,4 @@
-artikulate (4:14.12.2-1~) UNRELEASED; urgency=medium
+artikulate (4:14.12.2-1) experimental; urgency=medium
 
   [ Scarlett Clark ]
   * Add back in kdelibs5 parent version depend.
@@ -8,7 +8,7 @@ artikulate (4:14.12.2-1~) UNRELEASED; urgency=medium
   * Prepare initial Debian release.
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 13:35:46 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:03:35 +0100
 
 artikulate (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
