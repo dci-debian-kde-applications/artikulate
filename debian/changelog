@@ -4,15 +4,42 @@ artikulate (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 16 Apr 2015 11:55:46 -0700
 
-artikulate (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+artikulate (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
-  * New upstream beta release
+  * Add back in kdelibs5 parent version depend. 
+  * kdelibs is actually in the 4.14 series. Adjust version. 
+  * New upstream release. 
+  * Fix version..
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 20 Feb 2015 11:03:44 -0800
+
+artikulate (4:14.12.2-0ubuntu1) vivid; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+
+  [ José Manuel Santamaría Lema ]
+  * Bump build depend on libqtgstreamer-dev to 1.2.0
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:53:09 -0800
+
+artikulate (4:14.12.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+  * Remove kdelibs5-dev depend version as there was not a new release.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 16:20:52 +0100
+
+artikulate (4:14.11.97-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release candidate
     - build-depend on extra-cmake-modules
     - add new files to artikulate.install, docs and not-installed
     - update artikulate.lintian-overrides for an added file
   * Import Packaging into Debian Git
+  * PPA build
 
- -- Philip Muškovac <yofel@kubuntu.org>  Fri, 21 Nov 2014 20:23:46 +0100
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 19:53:37 +0100
 
 artikulate (4:4.14.2-0ubuntu1) vivid; urgency=medium
 
