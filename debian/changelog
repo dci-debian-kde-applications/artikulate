@@ -4,6 +4,9 @@ artikulate (4:15.04.2-1~) UNRELEASED; urgency=medium
   * New upstream release (15.04.1).
   * New upstream release (15.04.2).
 
+  [ Pino Toscano ]
+  * Remove unused libqtmultimediakit1 and qtmobility-dev build dependencies.
+
  -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:03:35 +0200
 
 artikulate (4:14.12.3-1) experimental; urgency=medium
