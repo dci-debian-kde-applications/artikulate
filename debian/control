@@ -7,9 +7,11 @@ Build-Depends: cmake,
                extra-cmake-modules,
                kde-sc-dev-latest,
                kdelibs5-dev (>= 4:4.14),
+               kdoctools-dev,
                libqtgstreamer-dev (>= 1.2.0),
                libqtmultimediakit1,
                pkg-kde-tools,
+               qtbase5-dev,
                qtmobility-dev
 Standards-Version: 3.9.6
 Homepage: https://edu.kde.org/
