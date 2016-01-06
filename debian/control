@@ -8,11 +8,21 @@ Build-Depends: cmake,
                kde-sc-dev-latest,
                kdelibs5-dev (>= 4:4.14),
                kdoctools-dev,
-               libqtgstreamer-dev (>= 1.2.0),
+               libkf5config-dev,
+               libkf5configwidgets-dev,
+               libkf5crash-dev,
+               libkf5declarative-dev,
+               libkf5i18n-dev,
+               libkf5newstuff-dev,
+               libkf5widgetsaddons-dev,
+               libkf5xmlgui-dev,
+               libqt5gstreamer-dev,
+               libqt5xmlpatterns5-dev,
                libqtmultimediakit1,
                pkg-kde-tools,
                qtbase5-dev,
-               qtmobility-dev
+               qtmobility-dev,
+               xvfb
 Standards-Version: 3.9.6
 Homepage: https://edu.kde.org/
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/artikulate.git/
