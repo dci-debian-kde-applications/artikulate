@@ -3,6 +3,8 @@ artikulate (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
   * New upstream release
   * Adding new build dependencies
   * Running autotests with XVFB
+    - Disabled autotests completely due to problems upstream
+  * Fixed the install file
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:24:01 +0000
 
