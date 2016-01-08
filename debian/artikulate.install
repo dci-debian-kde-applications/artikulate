@@ -5,11 +5,11 @@ usr/lib/libartikulatelearnerprofile.so.4
 usr/lib/libartikulatelearnerprofile.so.4.*
 usr/lib/libartikulatesound.so.4
 usr/lib/libartikulatesound.so.4.*
+usr/share/appdata/artikulate.appdata.xml
 usr/share/applications/kde4/artikulate.desktop
 usr/share/doc/kde/HTML/*/artikulate/
+usr/share/icons/hicolor/*/apps/artikulate.*
 usr/share/kde4/apps/artikulate/
 usr/share/kde4/apps/artikulateui.rc
 usr/share/kde4/config.kcfg/artikulate.kcfg
 usr/share/kde4/config/artikulate.knsrc
-usr/share/appdata/artikulate.appdata.xml
-usr/share/icons/hicolor/*/apps/artikulate.*
