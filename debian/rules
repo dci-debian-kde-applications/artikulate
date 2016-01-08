@@ -8,9 +8,5 @@ override_dh_strip:
 	$(overridden_command) --dbg-package=artikulate-dbg
 
 override_dh_auto_test:
-	-mkdir debian/home
-	HOME=`pwd`/debian/home $(overridden_command)
-
-override_dh_clean:
-	-rm -r debian/home
-	$(overridden_command)
+	# Disable autotests at build time
+	:
