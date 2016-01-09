@@ -1,11 +1,8 @@
 etc/xdg/artikulate.knsrc
 usr/bin/artikulate
 usr/bin/artikulate_editor
-usr/lib/*/libartikulatecore.so
 usr/lib/*/libartikulatecore.so.0
-usr/lib/*/libartikulatelearnerprofile.so
 usr/lib/*/libartikulatelearnerprofile.so.0
-usr/lib/*/libartikulatesound.so
 usr/lib/*/libartikulatesound.so.0
 usr/share/appdata/org.kde.artikulate.appdata.xml
 usr/share/applications/org.kde.artikulate.desktop
