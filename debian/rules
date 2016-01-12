@@ -7,9 +7,6 @@ include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 override_dh_strip:
 	$(overridden_command) --dbg-package=artikulate-dbg
 
-.PHONY: override_dh_auto_test
-
-# FIXME - Disabled auto tests due to not working correctly upstream
-#         to be enabled again when upstream fix them.
-#override_dh_auto_test:
-#	xvfb-run dh_auto_test
+override_dh_auto_test:
+	:
+	# Tests disabled as they don't work

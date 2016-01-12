@@ -1,16 +1,24 @@
 artikulate (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
   * Adding new build dependencies
-  * Running autotests with XVFB
-    - Disabled autotests completely due to problems upstream
+  * Disabled autotests completely due to problems upstream
   * Fixed the install file
-  * Fixing not-installed
   * Adding W: artikulate: package-name-doesnt-match-sonames 
     libartikulatecore0 libartikulatelearnerprofile0 libartikulatesound0
     to lintian-errors file
 
+  [ Philip Muškovac ]
+  * Update qml depends for the qt5 release
+
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:24:01 +0000
+
+artikulate (4:15.08.3-1) experimental; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:38:42 +0100
 
 artikulate (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -23,6 +31,20 @@ artikulate (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:03:51 +0100
+
+artikulate (4:15.08.0-1) experimental; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.04.2).
+
+  [ Pino Toscano ]
+  * Remove unused libqtmultimediakit1 and qtmobility-dev build dependencies.
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:13:46 +0200
 
 artikulate (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -41,6 +63,12 @@ artikulate (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:19:59 +0200
 
+artikulate (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:19 +0200
+
 artikulate (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * Add back in kdelibs5 parent version depend. 
@@ -49,6 +77,18 @@ artikulate (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
   * Fix version..
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 20 Feb 2015 11:03:44 -0800
+
+artikulate (4:14.12.2-1) experimental; urgency=medium
+
+  [ Scarlett Clark ]
+  * Add back in kdelibs5 parent version depend.
+  * kdelibs is actually in the 4.14 series. Adjust version.
+
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:03:35 +0100
 
 artikulate (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
@@ -144,7 +184,7 @@ artikulate (4:4.12.90-0ubuntu1) trusty; urgency=medium
   * New upstream beta release
 
   [ Philip Muškovac ]
-  * Use dhmk 
+  * Use dhmk
   * Move the libraries from artikulate-dev to artikulate as the libs are not
     just dev symlinks and drop artikulate-dev as it's now empty
   * Add da9a92aca3a7af07feb8bde506129fb9314f9e60 as
@@ -164,6 +204,6 @@ artikulate (0.2.0-0ubuntu1) trusty; urgency=medium
 
 artikulate (0.1.0-0ubuntu1) trusty; urgency=low
 
-  * Initial release. (LP: #1208021) 
+  * Initial release. (LP: #1208021)
 
  -- Howard Chan <smartboyhw@gmail.com>  Sat, 03 Aug 2013 23:47:00 +0800
