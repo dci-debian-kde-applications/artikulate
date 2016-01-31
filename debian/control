@@ -27,8 +27,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/artikulate.git
 
 Package: artikulate
 Architecture: any
-Depends: qtdeclarative4-kqtquickcharts-1 (>= 4:4.12.90),
-         ${misc:Depends},
+Depends: ${misc:Depends},
          ${shlibs:Depends}
 Description: Language learning application
  Artikulate is a language learning application that helps improving
@@ -36,14 +35,3 @@ Description: Language learning application
  KDE Education project.
  .
  This package contains the main application for Artikulate.
-
-Package: artikulate-dbg
-Section: debug
-Architecture: any
-Depends: artikulate, ${misc:Depends}
-Description: Debugging symbols for Artikulate
- Artikulate is a language learning application that helps improving
- pronunciation skills for various languages.This is included in the
- KDE Education project.
- .
- This package contains the debugging symbols for Artikulate.
