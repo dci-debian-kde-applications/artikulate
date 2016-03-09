@@ -1,4 +1,4 @@
-artikulate (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+artikulate (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]
   * New upstream release
@@ -12,7 +12,7 @@ artikulate (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   [ Philip Muškovac ]
   * Update qml depends for the qt5 release
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:24:01 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 10:21:06 +0100
 
 artikulate (4:15.08.3-1) experimental; urgency=medium
 
