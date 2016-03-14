@@ -4,6 +4,13 @@ artikulate (4:15.12.2-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 20:40:50 -0800
 
+artikulate (4:15.12.1-0ubuntu2) xenial; urgency=medium
+
+  [ Pino Toscano ]
+  * Remove unused libqtmultimediakit1 and qtmobility-dev build dependencies.
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 10 Mar 2016 09:32:36 +0100
+
 artikulate (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]
