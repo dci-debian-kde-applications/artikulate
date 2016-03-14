@@ -17,10 +17,8 @@ Build-Depends: cmake,
                libkf5xmlgui-dev,
                libqt5gstreamer-dev,
                libqt5xmlpatterns5-dev,
-               libqtmultimediakit1,
                pkg-kde-tools,
                qtbase5-dev,
-               qtmobility-dev,
                pkg-kde-tools,
 Standards-Version: 3.9.6
 Homepage: https://edu.kde.org/
