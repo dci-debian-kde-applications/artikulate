@@ -1,9 +1,10 @@
-artikulate (4:15.12.2-0ubuntu1) UNRELEASED; urgency=medium
+artikulate (4:15.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release
   * This application is now kf5 adding stable/unstable branches. 
+  * New upstream bugfix release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 20:40:50 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 16 Mar 2016 18:47:19 -0700
 
 artikulate (4:15.12.1-0ubuntu2) xenial; urgency=medium
 
