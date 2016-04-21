@@ -1,11 +1,12 @@
-artikulate (4:15.12.3-1~2.gbp7d143a) UNRELEASED; urgency=medium
+artikulate (4:16.04.0-1~1.gbp31b775) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7d143aa4406cfd1636cbf2e03a3d2549538e2dd7 **
+  ** SNAPSHOT build @31b7753e0b09462cda3c850d5623f2e06e56e79d **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @db587a9402c60503b7e910e881a20b84b44da203 **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).
@@ -14,7 +15,7 @@ artikulate (4:15.12.3-1~2.gbp7d143a) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Drop testsuite dependency on experimental package libqt5xcbqpa5
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 18 Apr 2016 07:51:21 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:51:16 +0200
 
 artikulate (4:15.12.1-1) experimental; urgency=medium
 
