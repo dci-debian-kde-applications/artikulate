@@ -1,6 +1,6 @@
-artikulate (4:16.04.0-1~1.gbp31b775) UNRELEASED; urgency=medium
+artikulate (4:16.04.0-1~2.gbp1e3403) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @31b7753e0b09462cda3c850d5623f2e06e56e79d **
+  ** SNAPSHOT build @1e340365808ca0336e607bd281ac026ab26e830d **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @db587a9402c60503b7e910e881a20b84b44da203 **
@@ -14,8 +14,9 @@ artikulate (4:16.04.0-1~1.gbp31b775) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Drop testsuite dependency on experimental package libqt5xcbqpa5
+  * Update install files
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:51:16 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 26 Apr 2016 19:04:49 +0200
 
 artikulate (4:15.12.1-1) experimental; urgency=medium
 
