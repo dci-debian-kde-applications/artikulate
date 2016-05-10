@@ -1,6 +1,6 @@
-artikulate (4:16.04.0-1~3.gbp98432b) UNRELEASED; urgency=medium
+artikulate (4:16.04.1-1~1.gbpe5f889) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @98432bf13a37684cdec9eda37b86732f06c35fcf **
+  ** SNAPSHOT build @e5f8899e10d0491b137ec8551476233ecd53c3e1 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @db587a9402c60503b7e910e881a20b84b44da203 **
@@ -16,8 +16,9 @@ artikulate (4:16.04.0-1~3.gbp98432b) UNRELEASED; urgency=medium
   * Drop testsuite dependency on experimental package libqt5xcbqpa5
   * Update install files
   * Add missing test dependency on the qt5 sqlite driver
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 27 Apr 2016 09:16:34 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 23:51:14 +0200
 
 artikulate (4:15.12.1-1) experimental; urgency=medium
 
