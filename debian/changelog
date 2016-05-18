@@ -1,3 +1,9 @@
+artikulate (4:16.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:10:43 +0200
+
 artikulate (4:16.04.0-1~2.gbp1e3403) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @1e340365808ca0336e607bd281ac026ab26e830d **
