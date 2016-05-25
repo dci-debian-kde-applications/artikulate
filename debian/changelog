@@ -1,10 +1,6 @@
-artikulate (4:16.04.1-1~1.gbpe5f889) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @e5f8899e10d0491b137ec8551476233ecd53c3e1 **
+artikulate (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @db587a9402c60503b7e910e881a20b84b44da203 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -16,9 +12,8 @@ artikulate (4:16.04.1-1~1.gbpe5f889) UNRELEASED; urgency=medium
   * Drop testsuite dependency on experimental package libqt5xcbqpa5
   * Update install files
   * Add missing test dependency on the qt5 sqlite driver
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 23:51:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 00:34:10 +0200
 
 artikulate (4:15.12.1-1) experimental; urgency=medium
 
