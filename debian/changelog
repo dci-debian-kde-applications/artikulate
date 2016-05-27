@@ -1,3 +1,10 @@
+artikulate (4:16.04.1-2) unstable; urgency=medium
+
+  * Add missing runtime dependency (qml-module-qtqml-models2)
+    Thanks to Andreas Cord-Landwehr for the fix
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 27 May 2016 18:14:17 +0200
+
 artikulate (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
