@@ -28,7 +28,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/artikulate.git
 
 Package: artikulate
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, qml-module-qtqml-models2
+Depends: ${misc:Depends}, ${shlibs:Depends}, qml-module-qtqml-models2,
+ qml-module-org-kde-kquickcontrolsaddons
 Description: Language learning application
  Artikulate is a language learning application that helps improving
  pronunciation skills for various languages. This is included in the
