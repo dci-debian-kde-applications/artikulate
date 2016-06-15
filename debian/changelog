@@ -1,10 +1,11 @@
-artikulate (4:16.04.1-4~1.gbpf3dba0) UNRELEASED; urgency=medium
+artikulate (4:16.04.2-1~1.gbpcd64ae) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @f3dba01188f604f53844002fe64fbba6f0c9f907 **
+  ** SNAPSHOT build @cd64aee7ed17b7708ca177dd52d3332e4afd6562 **
 
   * * Document that depends on qml-module-org-kde-kquickcontrolsaddons was added   in the previous upload as well (Closes: #815029) * Add depends on kio so downloading works on non-plasma based systems   (Closes: #815030)
+  * UNRELEASED
 
- -- Scott Kitterman <scott@kitterman.com>  Sun, 29 May 2016 09:51:16 +0200
+ -- Scott Kitterman <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 05:51:14 +0200
 
 artikulate (4:16.04.1-3) unstable; urgency=medium
 
