@@ -20,7 +20,8 @@ Build-Depends: cmake (>= 3.0.0~),
                libqt5xmlpatterns5-dev (>= 5.5~),
                pkg-kde-tools,
                qtbase5-dev (>= 5.5~),
-               qtdeclarative5-dev (>= 5.5~)
+               qtdeclarative5-dev (>= 5.5~),
+               qtmultimedia5-dev
 Standards-Version: 3.9.8
 Homepage: https://edu.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/artikulate.git
