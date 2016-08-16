@@ -9,6 +9,8 @@ artikulate (4:16.04.3-0r1) UNRELEASED; urgency=medium
     - remove artikulate.install, no more used now
     - remove not-installed file, no more useful now
   * Update lintian overrides.
+  * Raise priority from extra to optional, just like the rest of KDE
+    applications.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 16 Aug 2016 06:22:03 +0200
 
