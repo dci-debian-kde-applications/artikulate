@@ -2,6 +2,11 @@ artikulate (4:16.04.3-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Stop forcing the local installation to debian/tmp, letting the package
+    directory as install place:
+    - manually remove the files (only development .so symbols) that are not
+      wanted in the binary
+    - remove artikulate.install, no more used now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 16 Aug 2016 06:22:03 +0200
 
