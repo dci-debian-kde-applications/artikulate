@@ -1,1 +1,4 @@
- artikulate: package-name-doesnt-match-sonames libartikulatecore4 libartikulatelearnerprofile4 libartikulatesound4
+# private libraries
+artikulate: package-name-doesnt-match-sonames
+# private libraries
+artikulate: no-symbols-control-file

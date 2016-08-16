@@ -8,6 +8,7 @@ artikulate (4:16.04.3-0r1) UNRELEASED; urgency=medium
       wanted in the binary
     - remove artikulate.install, no more used now
     - remove not-installed file, no more useful now
+  * Update lintian overrides.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 16 Aug 2016 06:22:03 +0200
 
