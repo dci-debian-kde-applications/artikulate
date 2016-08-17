@@ -5,9 +5,9 @@ usr/lib/*/libartikulatecore.so.0
 usr/lib/*/libartikulatelearnerprofile.so.0
 usr/lib/*/libartikulatesound.so.0
 usr/lib/*/qt5/plugins/artikulate/libsound/qtgstreamerbackend.so
+usr/share/*/org.kde.artikulate.appdata.xml
 usr/share/applications/org.kde.artikulate.desktop
 usr/share/artikulate/
 usr/share/config.kcfg/artikulate.kcfg
 usr/share/doc/HTML/*/artikulate
 usr/share/icons/hicolor/*/*/artikulate*
-usr/share/metainfo/org.kde.artikulate.appdata.xml
