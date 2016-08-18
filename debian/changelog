@@ -1,3 +1,11 @@
+artikulate (4:16.08.0-1~1.gbp5b7fbb) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @5b7fbb972ab7384ff5e25c5584c1d40662bb390d **
+
+  * UNRELEASED
+
+ -- Pino Toscano <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:51:21 +0200
+
 artikulate (4:16.04.3-1) unstable; urgency=medium
 
   * Team upload.
