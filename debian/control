@@ -20,7 +20,8 @@ Build-Depends: cmake (>= 3.0.0~),
                libqt5xmlpatterns5-dev (>= 5.5~),
                pkg-kde-tools,
                qtbase5-dev (>= 5.5~),
-               qtdeclarative5-dev (>= 5.5~)
+               qtdeclarative5-dev (>= 5.5~),
+               qtmultimedia5-dev
 Standards-Version: 3.9.8
 Homepage: https://edu.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/artikulate.git
@@ -28,8 +29,11 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/artikulate.git
 
 Package: artikulate
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, qml-module-qtqml-models2,
- qml-module-org-kde-kquickcontrolsaddons, kio
+Depends: kio,
+         qml-module-org-kde-kquickcontrolsaddons,
+         qml-module-qtqml-models2,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: Language learning application
  Artikulate is a language learning application that helps improving
  pronunciation skills for various languages. This is included in the
