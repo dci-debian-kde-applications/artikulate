@@ -1,17 +1,8 @@
-artikulate (4:16.08.2-1~1.gbp3c85df) UNRELEASED; urgency=medium
+artikulate (4:16.08.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @3c85df9703e4c8443828a0c335dca0dc9fc3d0c2 **
-
-  [ Pino Toscano ]
-  ** SNAPSHOT build @5b7fbb972ab7384ff5e25c5584c1d40662bb390d **
-
-  * UNRELEASED
-
-  [ Maximiliano Curia ]
   * Add qtmultimedia5-dev build dependency
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 23:51:32 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 21:30:47 +0200
 
 artikulate (4:16.04.3-1) unstable; urgency=medium
 
