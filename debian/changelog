@@ -1,11 +1,12 @@
-artikulate (4:16.08.2-2~1.gbp46c732) UNRELEASED; urgency=medium
+artikulate (4:16.08.3-1~1.gbp08e10b) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @46c732c56ea39cc29a47ba423427679c60c026c3 **
+  ** SNAPSHOT build @08e10b70ddd4baee544bca47a387c6a04c462fba **
 
   * Replace dbus-launch with dbus-run-session in tests.
     Thanks to Simon McVittie (Closes: 835832)
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 22 Oct 2016 14:51:31 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 23:51:39 +0100
 
 artikulate (4:16.08.2-1) unstable; urgency=medium
 
