@@ -34,6 +34,8 @@ Depends: kio,
          qml-module-qtqml-models2,
          ${misc:Depends},
          ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Language learning application
  Artikulate is a language learning application that helps improving
  pronunciation skills for various languages. This is included in the
