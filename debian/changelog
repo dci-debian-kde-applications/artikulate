@@ -3,10 +3,11 @@ artikulate (4:17.08.3-0r1) UNRELEASED; urgency=medium
   [ Pino Toscano ]
   * New upstream release.
   * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will drop
-    translations; adjust the manual kde-l10n-ast, and kde-l10n-eo
-    relationships too
+    translations.
   * Simplify watch file, and switch it to https.
   * Bump Standards-Version to 4.1.1, no changes required.
+  * Drop the manual kde-l10n-ast, and kde-l10n-eo breaks/replaces, as they are
+    included in ${kde-l10n:all} already
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 26 Nov 2017 07:51:41 +0100
 
